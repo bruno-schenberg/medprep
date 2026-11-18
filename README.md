@@ -1,5 +1,7 @@
 # medprep
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24350934.svg)](https://doi.org/10.5281/zenodo.24350934)
+
 Medical image preprocessing library. Handles the common steps between raw DICOM archives and ML-ready datasets.
 
 ## What it does
